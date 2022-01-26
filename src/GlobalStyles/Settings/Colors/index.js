@@ -9,7 +9,7 @@ const Colors = createGlobalStyle`
 
   --color-primary: #209cee;
   --color-success: #92cc41;
-  --color-warning: #f7d51d;
+  --color-warning: #baa015;
   --color-error: #e76e55;
 
   --color-twitch: #9146ff;
